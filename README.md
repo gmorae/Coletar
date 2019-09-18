@@ -1,4 +1,3 @@
-# Coletar
 Sistema para gestão, marketing e logista para empresa de reciclagem de óleo.
 ==============================================================================
 
